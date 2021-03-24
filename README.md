@@ -1,6 +1,6 @@
 # Blender Donut
 
-Blender course for beginners from Andrew Price.
+[Blender course for beginners](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) from Andrew Price.
 
 <p align="center">
   <img align="center" src="donut_render6.png"><br>
