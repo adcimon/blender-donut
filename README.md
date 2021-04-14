@@ -9,3 +9,7 @@ My work of the Blender [course](https://www.youtube.com/watch?v=NyJWoyVx_XI&list
 <p align="center">
   <img align="center" src="cup_render4.png"><br>
 </p>
+
+<p align="center">
+  <video align="center" src="blender_donut.mp4"><br>
+</p>
